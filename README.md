@@ -1,19 +1,19 @@
 
-## Hallo, Gema Fajar Ramadhan:
+## Hallo, Pirdaus:
 
 
-![Gema's github stats](https://github-readme-stats.vercel.app/api?username=gemafajar09&show_icons=true&theme=vision-friendly-dark) 
+![Gema's github stats](https://github-readme-stats.vercel.app/api?username=dauspratama99&show_icons=true&theme=vision-friendly-dark) 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemafajar09&layout=compact&theme=vision-friendly-dark)](https://github.com/gemafajar09/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dauspratama99&layout=compact&theme=vision-friendly-dark)](https://github.com/dauspratama99/github-readme-stats) 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gemafajar09)
 
 <h3 align="left">Media Sosial </h3>
 <a href="https://instagram.com/gemafajar04">
-  <img align="left" alt="gemafajar04" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <img align="left" alt="dauspratama99" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <a href="https://wa.me/6282122855458" target="_blank">
-  <img align="left" alt="Gema Fajar Ramadhan" width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
+  <img align="left" alt="Pirdaus" width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
 </a>
 
 <br><br>
