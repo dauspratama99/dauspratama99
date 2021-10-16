@@ -50,7 +50,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
   
-  <a href="https://www.php.net" target="_blank"> 
+  <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/javascript/javascript-ar21.svg" alt="php" width="40" height="40"/> 
   </a> 
 
