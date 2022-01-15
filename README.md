@@ -59,6 +59,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
   
+   <a href="https://reactnative.dev/" target="_blank"> 
+    <img src="https://seeklogo.com/vector-logo/273845/react" alt="laravel" width="40" height="40"/> 
+  </a> 
+  
 
 
  
