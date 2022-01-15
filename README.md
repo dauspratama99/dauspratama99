@@ -60,7 +60,7 @@
   </a> 
   
    <a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://seeklogo.com/vector-logo/273845/react" alt="laravel" width="40" height="40"/> 
+    <img src="https://seeklogo.com/vector-logo/273845/react" alt="reactnative" width="40" height="40"/> 
   </a> 
   
 
