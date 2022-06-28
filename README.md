@@ -63,6 +63,11 @@
     <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="reactnative" width="40" height="40"/> 
   </a> 
   
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img src=" https://seeklogo.com/images/K/kotlin-logo-4EA4DB3A08-seeklogo.com.png" alt="reactnative" width="40" height="40"/> 
+  </a> 
+ 
+  
 
 
  
