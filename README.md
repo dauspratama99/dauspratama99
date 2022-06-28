@@ -64,7 +64,7 @@
   </a> 
   
   <a href="https://kotlinlang.org/" target="_blank"> 
-    <img src=" https://seeklogo.com/images/K/kotlin-logo-4EA4DB3A08-seeklogo.com.png" alt="reactnative" width="40" height="40"/> 
+    <img src=" https://seeklogo.com/images/K/kotlin-logo-4EA4DB3A08-seeklogo.com.png" alt="kotlin" width="40" height="40"/> 
   </a> 
  
   
