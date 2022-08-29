@@ -11,12 +11,12 @@
 </p>
 <hr>
 
-
+<p align="center">
 ![Daus's github stats](https://github-readme-stats.vercel.app/api?username=dauspratama99&show_icons=true&theme=vision-friendly-dark) 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dauspratama99&layout=compact&theme=vision-friendly-dark)](https://github.com/dauspratama99/github-readme-stats) 
+</p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dauspratama99)
 
 <h3 align="left">Media Sosial </h3>
 <a href="https://instagram.com/daus.p_">
@@ -26,7 +26,7 @@
   <img align="left" alt="Pirdaus" width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
 </a>
 
-<br><br>
+<br>
 
 <h3 align="left">Bahasa pemograman:</h3>
 <p align="left"> 
