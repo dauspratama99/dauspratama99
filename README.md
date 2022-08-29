@@ -9,6 +9,7 @@
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
+<hr>
 
 
 ![Daus's github stats](https://github-readme-stats.vercel.app/api?username=dauspratama99&show_icons=true&theme=vision-friendly-dark) 
