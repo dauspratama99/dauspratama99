@@ -74,15 +74,6 @@
     <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" alt="kotlin" width="40" height="40"/> 
   </a> 
  
-  
-
-
  
-
-
-
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a>  
 </p>
 
