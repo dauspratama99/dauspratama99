@@ -16,7 +16,7 @@
 
 
 <h3 align="left">Media Sosial </h3>
-<a href="https://instagram.com/daus.p_">
+<a href="https://instagram.com/fiirdaus03">
   <img align="left" alt="dauspratama99" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <a href="https://wa.me/6282389360130" target="_blank">
