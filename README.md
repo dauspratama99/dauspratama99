@@ -12,9 +12,6 @@
 <hr>
 
 
-![Daus's github stats](https://github-readme-stats.vercel.app/api?username=dauspratama99&show_icons=true&theme=vision-friendly-dark) 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dauspratama99&layout=compact&theme=vision-friendly-dark)](https://github.com/dauspratama99/github-readme-stats) 
 
 
 
