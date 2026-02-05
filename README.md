@@ -3,7 +3,7 @@
 
 
 
-<h2 align="center"> Hi there, I'm Pirdaus, Web Developer. 👋</h2>
+<h2 align="center"> Hi there, I'm Pirdaus, full stack developer. 👋</h2>
 
 
 <p align="center">
