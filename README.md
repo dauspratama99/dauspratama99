@@ -1,66 +1,25 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
-
-
-
-
-<h2 align="center"> Hi there, I'm Pirdaus, full stack developer. 👋</h2>
-
-
-<p align="center">
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
-</p>
-<hr>
-
-
-<br>
-
-<h3 align="left">Bahasa pemograman:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://images.seeklogo.com/logo-png/27/1/vue-js-logo-png_seeklogo-274070.png" alt="vue" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" alt="laravel" width="40" height="40"/> 
-  </a> 
-  
-   <a href="https://codeigniter.com/" target="_blank"> 
-    <img src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" alt="laravel" width="40" height="40"/> 
-  </a> 
-  
-  
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  
-   <a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" alt="kotlin" width="40" height="40"/> 
-  </a> 
- 
- 
-</p>
-
+const programmer = {
+    name: "Gema Fajar Ramadhan",
+    location: "Indonesia 🇮🇩",
+    code: ["JavaScript", "Python", "Java", "PHP", "Go", "Typescript", "Lua"],
+    askMeAbout: ["web dev", "mobile dev", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "Next"],
+            css: ["Tailwind", "Bootstrap", "Sass"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            python: ["Django"],
+            php: ["Laravel", "CodeIgniter"],
+            go: ["Gin", "Echo", "Fiber"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "MinIO"],
+        mobile: ["React Native", "Flutter", "Kotlin", "Java"],
+        devOps: ["Docker", "AWS", "Nginx"],
+        automation: ["n8n", "GitHub Actions"],
+        tools: ["Git", "VSCode", "Figma", "Postman"]
+    },
+    currentProject: "Building something awesome! 🔥",
+    funFact: "I debug with console.log() and I'm proud of it!"
+};
