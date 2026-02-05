@@ -43,9 +43,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-<!--   <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> 
+  <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> 
-  </a>  -->
+  </a> 
   
   <a href="https://laravel.com/" target="_blank"> 
     <img src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" alt="laravel" width="40" height="40"/> 
